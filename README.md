@@ -24,7 +24,9 @@ Hello! This is my personal EFI setup for OpenCore. Please note that your hardwar
 | iGPU | Intel HD 620 Graphics |
 | Storage | WD SN530 512GB SSD |
 | Audio | Realtek ALC3246 (or ALC256) |
+| Ethernet | Intel Ethernet I219-LM |
 | Wireless | Intel Dual Band Wireless AC 8265 |
+| Bluetooth | Intel Wireless Bluetooth|
 | SMBios | MacBookPro14,1 |
 | OpenCore | v0.7.8 |
 | macOS | v12.4 |
